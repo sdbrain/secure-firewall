@@ -1,0 +1,3 @@
+[submodule "SFCN"]
+	path = SFCN
+	url = git@github.com:CiscoDevNet/sfcn.git
